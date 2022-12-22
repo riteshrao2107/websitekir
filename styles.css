@@ -1,0 +1,115 @@
+ /* first section */
+.one-h1{
+ padding-top: 300px;
+ font-size: 4rem;
+  color: white;
+}
+.one{
+   text-align: center;
+}
+.book-now{
+
+  background-color: #9C27B0;
+  padding: 10px 20px;
+}
+/* second section */
+.two-h1{
+
+  color: white;
+}
+.two{
+  text-align: center;
+  padding: 10px 0px;
+  margin: auto;
+}
+ .our-serv{
+margin: 10px;
+background-color: black;
+ }
+
+.see-more{
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border-width: thick;
+}
+.row{
+  margin: auto;
+}
+/* third section */
+.third-section{
+  padding: 100px;
+  background-color: black;
+  text-align: center;
+}
+.stats{
+  text-align: center;
+  background-color:  #E040FB;
+
+}
+.stats-1{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.stats-3{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.statss{
+  color: white;
+  font-size: 6rem;
+  font-weight: bold;
+}
+.statsss{
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.head-clients{
+  color: #C539B4;
+  margin: 30px;
+  font-weight: bold;
+   font-size: 5rem;
+}
+.artist{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+.artistt{
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.see-moree{
+  border-color: #C539B4;
+  margin:30px;
+  padding: 10px 30px;
+  font-weight: bold;
+  color: #C539B4;
+  border-width: thick;
+}
+/* fotth section */
+.forth-section{
+  padding: 0px 100px 100px 100px;
+  background-color: black;
+}
+.NEWSLETTER{
+  background-color: #C539B4;
+  border-radius: 20px;
+  margin: auto;
+}
+.news-img{
+  width: 80%;
+  height: 80%;
+  padding: 30px;
+}
+.newsletterr{
+margin: auto;
+  text-align: left;
+}
+.sub-btn{
+background-color: black;
+  margin-top: 10px;
+  padding: 10px 100px;
+}
